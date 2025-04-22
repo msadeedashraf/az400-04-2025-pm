@@ -12,17 +12,32 @@
 [What is the best Git branch strategy](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy)
 
 
+### Git Essentials
+
+[Git Essentials](https://www.linkedin.com/learning/git-essential-training-2023/edit-a-file-and-view-changes?u=76276940)
+
+[GitHub Essential Training](https://www.linkedin.com/learning/github-essential-training-1-the-basics/installing-github-command-line-locally?autoSkip=true&resume=false&u=76276940)
+
 ### Gitflow workflow
+
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ### Continuous Integration
+
 [CI](https://www.atlassian.com/continuous-delivery/continuous-integration)
+
 [Continuous-integration-vs-delivery-deployment](https://launchdarkly.com/blog/continuous-integration-vs-delivery-deployment/)
+
 [The-complete-expert-guide-to-continuous-integration](https://www.launchableinc.com/blog/the-complete-expert-guide-to-continuous-integration/)
+
 [Continuous integration vs. delivery vs. deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
 
 
 ### DevOps Foundations by James Wickett and Ernest Mueller
+
+### Book : Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by David Farley, Jez Humble
+
+[Continuous Delivery](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 
 #### The Foundation of DevOps
 
@@ -97,3 +112,19 @@
 #### Software Testing: Tools
 [Software Testing: Tools](https://www.linkedin.com/learning/software-testing-tools/making-the-right-software-testing-choice?u=76276940)
 
+
+### Robot Framework Test Automation: Level 1 (Selenium)
+
+[Robot Framework Test Automation: Level 1 (Selenium)](https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium-21986416/about-the-instructor?u=76276940)
+
+### Learning Selenium
+
+[Learning Selenium](https://www.linkedin.com/learning/learning-selenium/welcome?u=76276940)
+
+### Selenium Essential Training
+
+[Selenium Essential Training](https://www.linkedin.com/learning/selenium-essential-training/welcome?u=76276940)
+
+### Learning Selenium with Node.js
+
+[Learning Selenium with Node.js](https://www.linkedin.com/learning/learning-selenium-with-node-js/learn-selenium-with-nodejs?u=76276940)
