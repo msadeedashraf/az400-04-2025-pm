@@ -22,6 +22,20 @@
 
 [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
+
+### Azure Management Basics: Portal, PowerShell, Bicep, and CLI
+
+[Azure Management Basics: Portal, PowerShell, Bicep, and CLI](https://www.linkedin.com/learning/azure-management-basics-portal-powershell-bicep-and-cli/create-and-use-a-dashboard-in-azure?resume=false&u=76276940)
+
+
+### Azure Essential Training for Developers
+
+[Azure Essential](https://www.linkedin.com/learning/azure-essential-training-for-developers/when-to-use-durable-functions?u=76276940)
+
+### Azure Administration Essential Training
+
+[Azure Administration](https://www.linkedin.com/learning/azure-administration-essential-training-17225360/the-essentials-of-microsoft-azure?u=76276940)
+
 ### Continuous Integration
 
 [CI](https://www.atlassian.com/continuous-delivery/continuous-integration)
